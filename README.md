@@ -68,19 +68,19 @@ GitHub | VS Code | Vercel | Netlify | Railway
 - 📧 Email: **usman.rauf.953@gmail.com**  
 - 📍 Location: New Garden Town, Lahore, Pakistan  
 - 📱 Phone: 0328-6894500  
-- 🌐 Portfolio: https://sweet-dragon-592a4e.netlify.app/
+- 🌐 Portfolio: https://neon-marigold-1b00d9.netlify.app/
 
 ---
 
 ## 🌐 Connect With Me
 
 - Facebook: https://www.facebook.com/usmanbhutta53  
-- Instagram: https://www.instagram.com/musmanbhuta  
+- Instagram: https://www.instagram.com/musmanbhuta
 
 ---
 
 ## ⚡ Goal
-To become a **professional Full Stack MERN Developer** and work on impactful real-world applications.
+To become a **Professional Full Stack MERN Developer** and work on impactful real-world applications.
 
 ---
 
