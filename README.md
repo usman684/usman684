@@ -1,40 +1,87 @@
-<h1 align="center">Hi 👋, I'm Muhammad Usman</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+# 👋 Hi, I'm Muhammad Usman
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=usman684&label=Profile%20views&color=0e75b6&style=flat" alt="usman684" /> </p>
+💻 **MERN Stack Developer | Frontend Enthusiast | Pakistan**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=usman684" alt="usman684" /></a> </p>
+---
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+## 🚀 About Me
+I am a passionate Full Stack (MERN) Developer focused on building modern, responsive, and scalable web applications.  
+I enjoy turning ideas into real-world projects using clean and efficient code.
 
-- 🌱 I’m currently learning **Mern Stack Web Development**
+- 🌱 Currently learning **Advanced MERN Stack Development**
+- 🤝 Looking to collaborate on **real-world MERN projects**
+- 💡 Love building full-stack web apps & APIs
+- ⚡ Fun fact: I once debugged for 3 hours… and it was a missing semicolon 😄
 
-- 🤝 I’m looking for help with **Real-world MERN Stack projects**
+---
 
-- 👨‍💻 All of my projects are available at [https://sweet-dragon-592a4e.netlify.app/](https://sweet-dragon-592a4e.netlify.app/)
+## 🎓 Education
 
-- 📝 I regularly write articles on [Currently learning and building MERN Stack projects](Currently learning and building MERN Stack projects)
+**Emerson University Multan**  
+🎓 BS Information Technology  
+📊 GPA: 3.58 / 4.00  
+📅 Graduation: August 2025  
 
-- 💬 Ask me about **→ You’re inviting people to ask you questions about MERN Stack.**
+**Muhammadan Public Higher Secondary School Jatoi**  
+📅 2021  
+📊 Marks: 1038 / 1100  
 
-- 📫 How to reach me **usman.rauf.953@gmail.com**
+---
 
-- 📄 Know about my experiences [https://sweet-dragon-592a4e.netlify.app/](https://sweet-dragon-592a4e.netlify.app/)
+## 🧠 Training
 
-- ⚡ Fun fact **I once debugged for 3 hours… and the bug was a missing semicolon 😆**
+**Nexskill – MERN Stack Development**  
+📅 Completed: April 2026  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/https://www.facebook.com/usmanbhutta53" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/usmanbhutta53" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/musmanbhuta?utm_source=qr&igsh=ampwy3jrowr4mwno" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/musmanbhuta?utm_source=qr&igsh=ampwy3jrowr4mwno" height="30" width="40" /></a>
-</p>
+- Full-stack development using **MongoDB, Express.js, React.js, Node.js**
+- Built multiple real-world applications & REST APIs
+- Hands-on experience with deployment and project structuring
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=usman684&show_icons=true&locale=en&layout=compact" alt="usman684" /></p>
+## 🛠️ Tech Stack
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=usman684&show_icons=true&locale=en" alt="usman684" /></p>
+### 💻 Languages & Frameworks
+JavaScript | React.js | Node.js | Express.js | MongoDB | HTML | CSS | Next.js (Basic)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=usman684&" alt="usman684" /></p>
+### 🧰 Tools
+GitHub | VS Code | Vercel | Netlify | Railway
 
+---
+
+## 📌 Projects
+
+- 🛒 MERN CRUD Application  
+- 🛍️ Amazon Clone (React.js)  
+- 🎬 Netflix Clone (React.js)  
+- 💬 Chat Application (MERN Stack)  
+- 🔗 URL Shortener (MERN Stack)  
+- 🌦️ Weather App (HTML, CSS, JS)  
+- ✅ Todo App (React + Tailwind CSS)  
+- 📊 Simple Interest Calculator  
+- 🍔 Meal Search App (React API)  
+
+---
+
+## 📫 Contact Me
+
+- 📧 Email: **usman.rauf.953@gmail.com**  
+- 📍 Location: New Garden Town, Lahore, Pakistan  
+- 📱 Phone: 0328-6894500  
+- 🌐 Portfolio: https://sweet-dragon-592a4e.netlify.app/
+
+---
+
+## 🌐 Connect With Me
+
+- Facebook: https://www.facebook.com/usmanbhutta53  
+- Instagram: https://www.instagram.com/musmanbhuta  
+
+---
+
+## ⚡ Goal
+To become a **professional Full Stack MERN Developer** and work on impactful real-world applications.
+
+---
+
+⭐ *“Code. Learn. Build. Repeat.”*
