@@ -93,7 +93,7 @@ GitHub | VS Code | Postman | Vercel | Netlify | Railway
 
 - 📧 Email: **usman.rauf.953@gmail.com**  
 - 📍 Lahore, Pakistan  
-- 🌐 Portfolio: https://sweet-dragon-592a4e.netlify.app  
+- 🌐 Portfolio: https://neon-marigold-1b00d9.netlify.app/  
 - 📱 Phone: 0328-6894500  
 
 <p align="center">
