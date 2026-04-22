@@ -97,9 +97,8 @@ GitHub | VS Code | Postman | Vercel | Netlify | Railway
 - 📱 Phone: 0328-6894500  
 
 <p align="center">
-  <a href="https://facebook.com/"><img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge"/></a>
-  <a href="https://instagram.com/"><img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge"/></a>
-  <a href="https://linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge"/></a>
+  <a href="https://www.facebook.com/share/1XduatwwAR/"><img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge"/></a>
+  <a href="https://www.instagram.com/musmanbhuta?utm_source=qr&igsh=ampwY3JrOWR4MWNo/"><img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge"/></a>
 </p>
 
 ---
