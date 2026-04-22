@@ -1,17 +1,20 @@
-# 👋 Hi, I'm Muhammad Usman
+<h1 align="center">Hi 👋, I'm Muhammad Usman</h1>
 
-💻 **MERN Stack Developer | Frontend Enthusiast | Pakistan**
+<h3 align="center">🚀 MERN Stack Developer | Frontend Engineer | Pakistan</h3>
+
+<p align="center">
+Passionate about building modern, responsive, and scalable full-stack web applications using MERN Stack.
+</p>
 
 ---
 
-## 🚀 About Me
-I am a passionate Full Stack (MERN) Developer focused on building modern, responsive, and scalable web applications.  
-I enjoy turning ideas into real-world projects using clean and efficient code.
+## 💫 About Me
 
-- 🌱 Currently learning **Advanced MERN Stack Development**
-- 🤝 Looking to collaborate on **real-world MERN projects**
-- 💡 Love building full-stack web apps & APIs
-- ⚡ Fun fact: I once debugged for 3 hours… and it was a missing semicolon 😄
+- 🌱 Currently learning **Advanced MERN Stack & Full Stack Architecture**
+- 💻 Focused on building **real-world web applications**
+- 🤝 Open to collaboration on **MERN & React projects**
+- 🎯 Goal: Become a **Professional Full Stack Developer**
+- ⚡ Fun fact: Debugging teaches more than tutorials 😄
 
 ---
 
@@ -33,55 +36,78 @@ I enjoy turning ideas into real-world projects using clean and efficient code.
 **Nexskill – MERN Stack Development**  
 📅 Completed: April 2026  
 
-- Full-stack development using **MongoDB, Express.js, React.js, Node.js**
-- Built multiple real-world applications & REST APIs
-- Hands-on experience with deployment and project structuring
+✔ MongoDB, Express.js, React.js, Node.js  
+✔ REST APIs & Full Stack Applications  
+✔ Real-world project development experience  
+✔ Deployment on modern platforms  
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages & Frameworks
-JavaScript | React.js | Node.js | Express.js | MongoDB | HTML | CSS | Next.js (Basic)
+### 💻 Languages
+JavaScript | TypeScript | HTML5 | CSS3
 
-### 🧰 Tools
-GitHub | VS Code | Vercel | Netlify | Railway
+### ⚛️ Frontend
+React.js | Next.js | Tailwind CSS | Bootstrap
+
+### 🧩 Backend
+Node.js | Express.js
+
+### 🗄️ Database
+MongoDB | Firebase
+
+### ⚙️ Tools
+GitHub | VS Code | Postman | Vercel | Netlify | Railway
 
 ---
 
-## 📌 Projects
+## 📌 Featured Projects
 
 - 🛒 MERN CRUD Application  
 - 🛍️ Amazon Clone (React.js)  
 - 🎬 Netflix Clone (React.js)  
 - 💬 Chat Application (MERN Stack)  
 - 🔗 URL Shortener (MERN Stack)  
-- 🌦️ Weather App (HTML, CSS, JS)  
-- ✅ Todo App (React + Tailwind CSS)  
+- 🌦️ Weather App (JavaScript API)  
+- ✅ Todo App (React + Tailwind)  
 - 📊 Simple Interest Calculator  
 - 🍔 Meal Search App (React API)  
 
 ---
 
-## 📫 Contact Me
+## 📊 GitHub Stats
 
-- 📧 Email: **usman.rauf.953@gmail.com**  
-- 📍 Location: New Garden Town, Lahore, Pakistan  
-- 📱 Phone: 0328-6894500  
-- 🌐 Portfolio: https://neon-marigold-1b00d9.netlify.app/
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=usman684&show_icons=true&theme=dracula" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usman684&layout=compact&theme=dracula" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=usman684&theme=dracula" />
+</p>
 
 ---
 
 ## 🌐 Connect With Me
 
-- Facebook: https://www.facebook.com/usmanbhutta53  
-- Instagram: https://www.instagram.com/musmanbhuta
+- 📧 Email: **usman.rauf.953@gmail.com**  
+- 📍 Lahore, Pakistan  
+- 🌐 Portfolio: https://sweet-dragon-592a4e.netlify.app  
+- 📱 Phone: 0328-6894500  
+
+<p align="center">
+  <a href="https://facebook.com/"><img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge"/></a>
+  <a href="https://instagram.com/"><img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge"/></a>
+  <a href="https://linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge"/></a>
+</p>
 
 ---
 
-## ⚡ Goal
-To become a **Professional Full Stack MERN Developer** and work on impactful real-world applications.
+## ⚡ Vision
+
+> “Building scalable, real-world applications using modern web technologies.”
 
 ---
 
-⭐ *“Code. Learn. Build. Repeat.”*
+⭐ *Code. Learn. Build. Repeat.*
