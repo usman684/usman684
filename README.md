@@ -1,112 +1,151 @@
 <h1 align="center">Hi 👋, I'm Muhammad Usman</h1>
 
-<h3 align="center">🚀 MERN Stack Developer | Frontend Engineer | Pakistan</h3>
+<h3 align="center">MERN Stack Developer | React.js | Node.js | Express.js | MongoDB | Open to Work</h3>
 
 <p align="center">
-Passionate about building modern, responsive, and scalable full-stack web applications using MERN Stack.
+Passionate about building modern, responsive, and scalable full-stack web applications.
+</p>
+
+<p align="center">
+<a href="https://github.com/usman684">
+<img src="https://komarev.com/ghpvc/?username=usman684&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+</a>
 </p>
 
 ---
 
-## 💫 About Me
+# 👨‍💻 About Me
 
-- 🌱 Currently learning **Advanced MERN Stack & Full Stack Architecture**
-- 💻 Focused on building **real-world web applications**
-- 🤝 Open to collaboration on **MERN & React projects**
-- 🎯 Goal: Become a **Professional Full Stack Developer**
-- ⚡ Fun fact: Debugging teaches more than tutorials 😄
-
----
-
-## 🎓 Education
-
-**Emerson University Multan**  
-🎓 BS Information Technology  
-📊 GPA: 3.58 / 4.00  
-📅 Graduation: August 2025  
-
-**Muhammadan Public Higher Secondary School Jatoi**  
-📅 2021  
-📊 Marks: 1038 / 1100  
+- 🚀 MERN Stack Developer from Lahore, Pakistan
+- 💻 Passionate about building real-world web applications
+- 🌱 Currently improving Full Stack Development skills
+- 🤝 Open to Internship, Freelance & Junior Developer opportunities
+- 🎯 Goal: Become a Professional Full Stack Engineer
 
 ---
 
-## 🧠 Training
-
-**Nexskill – MERN Stack Development**  
-📅 Completed: April 2026  
-
-✔ MongoDB, Express.js, React.js, Node.js  
-✔ REST APIs & Full Stack Applications  
-✔ Real-world project development experience  
-✔ Deployment on modern platforms  
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Languages
-JavaScript | TypeScript | HTML5 | CSS3
-
-### ⚛️ Frontend
-React.js | Next.js | Tailwind CSS | Bootstrap
-
-### 🧩 Backend
-Node.js | Express.js
-
-### 🗄️ Database
-MongoDB | Firebase
-
-### ⚙️ Tools
-GitHub | VS Code | Postman | Vercel | Netlify | Railway
-
----
-
-## 📌 Featured Projects
-
-- 🛒 MERN CRUD Application  
-- 🛍️ Amazon Clone (React.js)  
-- 🎬 Netflix Clone (React.js)  
-- 💬 Chat Application (MERN Stack)  
-- 🔗 URL Shortener (MERN Stack)  
-- 🌦️ Weather App (JavaScript API)  
-- ✅ Todo App (React + Tailwind)  
-- 📊 Simple Interest Calculator  
-- 🍔 Meal Search App (React API)  
-
----
-
-## 📊 GitHub Stats
+# 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=usman684&show_icons=true&theme=dracula" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usman684&layout=compact&theme=dracula" height="150"/>
-</p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=usman684&theme=dracula" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,tailwind,git,github,vscode,postman,vercel" />
+
 </p>
 
 ---
 
-## 🌐 Connect With Me
+# 🚀 Featured Projects
 
-- 📧 Email: **usman.rauf.953@gmail.com**  
-- 📍 Lahore, Pakistan  
-- 🌐 Portfolio: https://neon-marigold-1b00d9.netlify.app/  
-- 📱 Phone: 0328-6894500  
+## 💬 Real-Time Chat Application
+
+Modern real-time chat application built with **MERN Stack + Socket.io** featuring authentication and instant messaging.
+
+🔗 Live Demo  
+https://chat-client-kappa-mocha.vercel.app/
+
+🔗 Repository  
+https://github.com/usman684/chat-client
+
+---
+
+## 🔗 URL Shortener
+
+A modern URL shortening application built using the MERN Stack.
+
+🔗 Live Demo  
+https://tinyurl-jade-eight.vercel.app/
+
+🔗 Repository  
+https://github.com/usman684/tinyurl
+
+---
+
+## 📋 MERN CRUD Application
+
+A complete CRUD application using React.js, Node.js, Express.js and MongoDB.
+
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://www.facebook.com/share/1XduatwwAR/"><img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge"/></a>
-  <a href="https://www.instagram.com/musmanbhuta?utm_source=qr&igsh=ampwY3JrOWR4MWNo/"><img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge"/></a>
+
+<img src="https://github-readme-stats.vercel.app/api?username=usman684&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usman684&layout=compact&theme=tokyonight"/>
+
+<img src="https://streak-stats.demolab.com?user=usman684&theme=tokyonight"/>
+
 </p>
 
 ---
 
-## ⚡ Vision
+# 🎓 Education
 
-> “Building scalable, real-world applications using modern web technologies.”
+**BS Information Technology**
+
+Emerson University Multan
+
+CGPA: **3.58 / 4.00**
+
+Completed: **November 2025**
 
 ---
 
-⭐ *Code. Learn. Build. Repeat.*
+# 📜 Certification
+
+✅ MERN Stack Development Course
+
+Completed: **May 2026**
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+
+<a href="mailto:usman.rauf.953@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/muhammad-usman-2041b3396/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/usman684">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://portfoliosite-zeta-sandy.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</p>
+
+📍 **Lahore, Pakistan**
+
+📱 **0328-6894500**
+
+---
+
+# 💡 Currently Working On
+
+- 🚀 Full Stack MERN Applications
+- 📚 Data Structures & Algorithms
+- ⚡ Clean Code & Best Practices
+
+---
+
+# ⭐ Quote
+
+> **"First, solve the problem. Then, write the code." – John Johnson**
+
+---
+
+<p align="center">
+
+### Thanks for visiting my profile ❤️
+
+⭐ Don't forget to follow me if you like my work!
+
+</p>
